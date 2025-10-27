@@ -1,6 +1,5 @@
 # ImperioLey
 
-Cómo correrlo rápido en local (si quieres fuera del canvas)
 
 Crea un proyecto Vite:
 
